@@ -14,6 +14,6 @@ public class ObserverDemoMain {
 
         station.setNews("Weather Alert! Temperatures are expected to drop below ", -15);
         System.out.println();
-        
+
     }
 }
